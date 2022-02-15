@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 6d5019ea-87e0-410c-5221-5349ee25a668
 title: Developing the User-friendly Classroom Video Training Series
 uid: a40baa8c-7fa8-88f2-648d-6fe6f83b997c

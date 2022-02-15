@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 6d5019ea-87e0-410c-5221-5349ee25a668
 title: User Experience as Applied to International TA Training
 uid: 2de9f9a8-a4a4-6964-3037-3a600c9213a2

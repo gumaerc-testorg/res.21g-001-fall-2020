@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 6d5019ea-87e0-410c-5221-5349ee25a668
 title: A Focus on International Teaching Assistants
 uid: 3906da10-7f3e-a9dd-8f72-a85c3c479695

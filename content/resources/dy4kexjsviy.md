@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-21g-001-the-user-friendly-classroom-fall-2020/20469c3e2338b32f72afe5c01cdde3bd_Dy4KEXJsVIY.srt
+file: /media/courses/res-21g-001-the-user-friendly-classroom-fall-2020/20469c3e2338b32f72afe5c01cdde3bd_Dy4KEXJsVIY.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 20469c3e-2338-b32f-72af-e5c01cdde3bd

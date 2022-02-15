@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 6d5019ea-87e0-410c-5221-5349ee25a668
 title: Promoting Self-Evaluation
 uid: 62abca41-5509-e6f8-026c-8f4bc48282e4

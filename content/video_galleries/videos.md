@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 title: Videos
 uid: 72adcf6a-963e-ae9e-f546-cca77e7d5361
 videos:

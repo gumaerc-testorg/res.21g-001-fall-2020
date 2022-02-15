@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-21g-001-the-user-friendly-classroom-fall-2020/fa6870810835e969feaafbf38779af9a_uPsMwJ116lQ.pdf
+file: /media/courses/res-21g-001-the-user-friendly-classroom-fall-2020/fa6870810835e969feaafbf38779af9a_uPsMwJ116lQ.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: fa687081-0835-e969-feaa-fbf38779af9a

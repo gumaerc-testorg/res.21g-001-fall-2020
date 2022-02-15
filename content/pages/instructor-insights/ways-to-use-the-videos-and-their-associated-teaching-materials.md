@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 6d5019ea-87e0-410c-5221-5349ee25a668
 title: Ways to Use the Videos and their Associated Teaching Materials
 uid: 574cf242-ae76-98b8-4b2a-f453bf616b7f

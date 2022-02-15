@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: SupplementalResourceSection
 title: Assignments
 uid: 38398ea9-7c7e-1273-1e65-23b02cabb194
 ---
