@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: SupplementalResourceSection
+parent_uid: 38398ea9-7c7e-1273-1e65-23b02cabb194
 resourcetype: Document
 title: 'RES.21G-001 The User-Friendly Classroom: Assignment 2 - Class Evaluations'
 uid: 8fae59a1-0d42-bc04-bf1c-8ec4b862aa72

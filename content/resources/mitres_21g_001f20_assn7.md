@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: SupplementalResourceSection
+parent_uid: 38398ea9-7c7e-1273-1e65-23b02cabb194
 resourcetype: Document
 title: 'RES.21G-001 The User-Friendly Classroom: Assignment 7 - Teaching Online'
 uid: aea70596-9ea6-984e-6324-6afc74692132

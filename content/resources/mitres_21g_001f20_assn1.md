@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: SupplementalResourceSection
+parent_uid: 38398ea9-7c7e-1273-1e65-23b02cabb194
 resourcetype: Document
 title: 'RES.21G-001 The User-Friendly Classroom: Assignment 1 - Expectations'
 uid: 397bb8ed-53e8-90eb-3935-4cb32e5003b5
