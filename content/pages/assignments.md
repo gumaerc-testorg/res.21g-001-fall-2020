@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section consists the course assignments, meant for completion after
+  watching the videos.
 learning_resource_types:
 - Assignments
 ocw_type: SupplementalResourceSection
@@ -29,7 +31,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Expectations (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn1)
+{{% resource_link 397bb8ed-53e8-90eb-3935-4cb32e5003b5 "Expectations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +40,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Class Evaluations (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn2)
+{{% resource_link 8fae59a1-0d42-bc04-bf1c-8ec4b862aa72 "Class Evaluations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +49,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[The First Day (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn3)
+{{% resource_link cda8e941-40b7-3ff5-7c12-b17d8a030c38 "The First Day (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +58,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Introductions (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn4)
+{{% resource_link 011511df-2990-686c-949b-30e5f8fef7a3 "Introductions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +67,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduce Yourself (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn5)
+{{% resource_link f593799e-bfb1-0e3a-1eed-b5683de77810 "Introduce Yourself (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +76,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Evaluate Yourself (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn6)
+{{% resource_link 15d48a0e-a572-701f-3b49-df51e7cd6d97 "Evaluate Yourself (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +85,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Teaching Online (PDF)]({{< baseurl >}}/resources/mitres_21g_001f20_assn7)
+{{% resource_link aea70596-9ea6-984e-6324-6afc74692132 "Teaching Online (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

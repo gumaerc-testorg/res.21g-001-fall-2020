@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: 'This section contains the five videos produced for this project: Expectations,
+  ChemE - Phase Diagram Lesson, AeroAstro Lift Session, The First Day, and Introductions.'
 is_media_gallery: true
 learning_resource_types:
 - Videos

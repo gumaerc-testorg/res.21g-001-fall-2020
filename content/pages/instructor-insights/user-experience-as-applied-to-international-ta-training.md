@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, A. C. Kemp describes how helping international teaching
+  assistants (ITAs) think about their classes as products can assist these educators
+  in developing user-friendly learning experiences for students.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
