@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-21g-001-the-user-friendly-classroom-fall-2020/acf162cb2ecc8f13bfe531f1d8fdaef2_b04CichdN5g.pdf
+file_size: 28748
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
