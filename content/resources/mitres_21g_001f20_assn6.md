@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-21g-001-the-user-friendly-classroom-fall-2020/15d48a0ea572701f3b49df51e7cd6d97_MITRES_21G_001F20_Assn6.pdf
+file_size: 87110
 file_type: application/pdf
 learning_resource_types:
 - Assignments
