@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-21g-001-the-user-friendly-classroom-fall-2020/680c2776dcd6bb37b02a3cecd53d94d6_ZgYuF0SbPDM.pdf
+file: /courses/res-21g-001-the-user-friendly-classroom-fall-2020/680c2776dcd6bb37b02a3cecd53d94d6_ZgYuF0SbPDM.pdf
 file_size: 26318
 file_type: application/pdf
 learning_resource_types: []
