@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-21g-001-the-user-friendly-classroom-fall-2020/8fae59a10d42bc04bf1c8ec4b862aa72_MITRES_21G_001F20_Assn2.pdf
+file: /ol-ocw-studio-app/courses/res-21g-001-the-user-friendly-classroom-fall-2020/8fae59a10d42bc04bf1c8ec4b862aa72_MITRES_21G_001F20_Assn2.pdf
 file_size: 86510
 file_type: application/pdf
 learning_resource_types:
