@@ -8,7 +8,7 @@ uid: 6d5019ea-87e0-410c-5221-5349ee25a668
 ---
 ## Resource Overview
 
-_The User-friendly Classroom_ video training series was created specifically for teaching assistants for whom English is a second language and the USA a second culture by A.C. Kemp, a lecturer in [MIT Global Languages](http://mitgsl.mit.edu/). These videos, and their associated assignments, focus on developing international teaching assistants’ strategies for successful, student-centered communication in the interactive American classroom. The videos demonstrate best practices through authentic examples of successful teaching scenarios, interviews with undergraduates and advice from international teaching assistants.
+_The User-friendly Classroom_ video training series was created specifically for teaching assistants for whom English is a second language and the USA a second culture by A.C. Kemp, a lecturer in {{% resource_link "c48f37c3-582c-4485-b57a-c6c499446a46" "MIT Global Languages" %}}. These videos, and their associated assignments, focus on developing international teaching assistants’ strategies for successful, student-centered communication in the interactive American classroom. The videos demonstrate best practices through authentic examples of successful teaching scenarios, interviews with undergraduates and advice from international teaching assistants.
 
 The videos and assignments were created for use with the following courses:
 
